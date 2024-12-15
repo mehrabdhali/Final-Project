@@ -13,3 +13,6 @@ https://api.polygon.io/v2/aggs/grouped/locale/global/market/crypto/2023-01-09?ad
 The API we used is Polygon.io. Polygon.io provides real-time market data for stocks and cryptocurrencies, offering the endpoints to retrieve this type of data. We created multiple data visualizations, two data visualizations per crypto. We used scatter plots, box plots, histograms, line graphs, etc. to clearly analyze the cryptocurrencies and give a better analysis through our visualization.
 
 
+Youtube link: https://youtu.be/2o0KVmeeO1g 
+
+
